@@ -39,7 +39,6 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'test/Classes/**/*'
-  s.static_framework = true
   
   # s.resource_bundles = {
   #   'test' => ['test/Assets/*.png']
