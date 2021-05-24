@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "[![CI Status](https://img.shields.io/travis/juanvico/test.svg?style=flat)](https://travis-ci.org/juanvico/test) [![Version](https://img.shields.io/cocoapods/v/test.svg?style=flat)](https://cocoapods.org/pods/test) [![License](https://img.shields.io/cocoapods/l/test.svg?style=flat)](https://cocoapods.org/pods/test) [![Platform](https://img.shields.io/cocoapods/p/test.svg?style=flat)](https://cocoapods.org/pods/test)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "react-native start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.1"
+  }
+}
