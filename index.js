@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import { Text, View, AppRegistry, SafeAreaView } from 'react-native'
+import { Text, AppRegistry, SafeAreaView } from 'react-native'
 
 export class App extends Component {
   render() {
     return (
       <SafeAreaView>
-        <Text> textInComponent </Text>
+        <Text> Hello from pods 1 </Text>
       </SafeAreaView>
     )
   }
